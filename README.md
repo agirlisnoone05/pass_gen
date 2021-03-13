@@ -1,1 +1,1 @@
-A simple password generator for personal use
+A simple password generating and saving in a filefor personal use
