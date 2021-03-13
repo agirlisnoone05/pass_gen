@@ -1,1 +1,3 @@
-A simple password generating and saving in a filefor personal use
+A simple password manager-generating and saving in a file for personal use
+
+![](/imgs/Screenshot (100).png)
