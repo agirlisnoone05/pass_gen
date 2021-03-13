@@ -1,1 +1,1 @@
-# pass_gen
+A simple password generator for personal use
