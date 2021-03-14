@@ -1,3 +1,3 @@
-A simple password manager-generating and saving in a file for personal use
+A simple password manager-generating and saving in a file,searching it for personal use
 
-![](/imgs/ss.png)
+![](/imgs/passui.png)
